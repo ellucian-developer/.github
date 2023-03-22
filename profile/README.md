@@ -11,3 +11,5 @@
 Please use the GitHub issues on each repository to report problems. This is a community, you are welcome to fork a repository and create a Pull Request.
 
 You are welcome to reach out in the Discussions (over there on the right ->) to suggest projects and teams to collaborate on solving problems and sharing with the community!
+
+Make sure you click the Follow button at the top right of the page.
